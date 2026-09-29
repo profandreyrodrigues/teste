@@ -58,11 +58,11 @@ Estratégia 1:
 
 <img width="900" alt="vida-de-gato" src="https://github.com/user-attachments/assets/8bf9fc86-76c9-48ce-bfb2-3e4df6175e27" />
 
+### Vídeos
 
-<img width="2560" alt="gato-sem-raca-INOVA-scaled" src="https://github.com/user-attachments/assets/5c56d4b3-e3c4-4ae3-9176-ae6848d0f8b0" />
+Estratégia 2:
 
-
-
+https://github.com/profandreyrodrigues/teste/issues/2#issue-5632850869
 
 
 
