@@ -62,10 +62,7 @@ Estratégia 1:
 
 Estratégia 2:
 
-https://github.com/profandreyrodrigues/teste/issues/2#issue-5632850869
-
-
-
+https://github.com/user-attachments/assets/0103b020-ad61-45d8-9ff4-a2ae60d9d168
 
 
 
