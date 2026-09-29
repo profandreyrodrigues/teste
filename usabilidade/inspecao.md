@@ -58,19 +58,26 @@ Estratégia 1:
 
 <img width="900" alt="vida-de-gato" src="https://github.com/user-attachments/assets/8bf9fc86-76c9-48ce-bfb2-3e4df6175e27" />
 
-### Vídeos
 
-Estratégia 2:
+### Citação
 
-https://github.com/user-attachments/assets/0103b020-ad61-45d8-9ff4-a2ae60d9d168
+> XXXXXX
 
+```
+if nota>8:
+  print ("aprovado")
+```
+usuário[^1]
 
+[^1]: Explicação da nota.
 
+### Tabela
 
-
-
-
-
+|xxxxxxxxxx|xxxxxxy|xxxxxxxxxxx|
+|:-|:-:|-:|
+|x|y|z|
+|x|y|z|
+|x|y|z|
 
 
 
